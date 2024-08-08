@@ -1,0 +1,5 @@
+Palheta de cores:
+Em Hexa
+#ff6900
+#FC671D
+#D34AFA 
